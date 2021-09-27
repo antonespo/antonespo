@@ -17,6 +17,8 @@ My openness to teamwork contributes to my productive interaction in the team, wh
 [![](https://img.shields.io/badge/-Dev-informational?style=for-the-badge&logo=dev.to&logoColor=white&color=000000)](https://dev.to/antonespo)
 [![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/antonio.esposito.04/)
 
+<br/>
+
 ## 💻Tech Stack
 ### Backend
 
